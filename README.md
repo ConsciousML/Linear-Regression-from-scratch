@@ -1,7 +1,8 @@
-# Linear-Regression-Auto-Insurance
+# Linear-Regression-from-scratch
 
 ## Objective
-The goal of this project is to teach and show how linear regression works on real-world data.
+The purpose of this repository is to implement linear regression from scratch in Pytorch.
+We will see how this method works on real-world data.
 
 ## Dataset
 The dataset used for this experiment can be found in the `data` folder.
