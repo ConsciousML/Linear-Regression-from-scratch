@@ -4,6 +4,9 @@
 The purpose of this repository is to implement linear regression from scratch in Pytorch.
 We will see how this method works on real-world data.
 
+## Blog Post
+The blog post explaining the work of this repository can be found [here](https://consciousml.github.io/blog/linear-regression/insurance-data/pytorch/from-scratch/2020/09/12/Linear-Regression.html).
+
 ## Dataset
 The dataset used for this experiment can be found in the `data` folder.
 The Swedich Auto Insurance dataset contains:
@@ -17,5 +20,3 @@ conda env create --file requirements.yml
 conda activate torch
 ```
 
-## Notebook
-The experiment can be found in the notebook at the root of the project.
