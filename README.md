@@ -5,7 +5,7 @@ The purpose of this repository is to implement linear regression from scratch in
 We will see how this method works on real-world data.
 
 ## Blog Post
-The blog post explaining the work of this repository can be found [here](https://consciousml.github.io/blog/linear-regression/insurance-data/pytorch/from-scratch/2020/09/12/Linear-Regression.html).
+The blog post explaining the work of this repository can be found [here](https://consciousml.github.io/blog/linear-regression/insurance-data/pytorch/from-scratch/2020/09/07/Linear-Regression.html).
 
 ## Dataset
 The dataset used for this experiment can be found in the `data` folder.
